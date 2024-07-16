@@ -10,3 +10,4 @@ count = stringcount(input_string, count_string)
 puts "Occurrences of '#{count_string}' in '#{input_string}': #{count}" 
 
 
+# hello gaurav
